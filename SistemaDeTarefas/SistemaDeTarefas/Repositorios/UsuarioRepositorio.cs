@@ -8,7 +8,7 @@ namespace SistemaDeTarefas.Repositorios
     public class UsuarioRepositorio : IUsuarioRepositorio
     {
         private readonly SistemaTarefasDBContex _dbContext;
-        public UsuarioRepositorio(SistemaTarefasDBContex sistemaTarefasDBContex) 
+        public UsuarioRepositorio(SistemaTarefasDBContex sistemaTarefasDBContex)
         {
             _dbContext = sistemaTarefasDBContex;
         }
@@ -23,7 +23,7 @@ namespace SistemaDeTarefas.Repositorios
         }
         public async Task<UsuarioModel> Adicionar(UsuarioModel usuario)
         {
-           _dbContext.Usuarios.Add(usuario);
+            _dbContext.Usuarios.Add(usuario);
             _dbContext.SaveChanges();
 
             return usuario;
@@ -43,7 +43,7 @@ namespace SistemaDeTarefas.Repositorios
             _dbContext.SaveChanges();
 
             return usuarioPorId;
-           
+
         }
 
         public async Task<bool> Apagar(int id)
@@ -56,8 +56,10 @@ namespace SistemaDeTarefas.Repositorios
             }
 
             _dbContext.Usuarios.Remove(usuarioPorId);
-            _dbContext.SaveChanges();
+            await _dbContext.SaveChangesAsync();
+
             return true;
 
         }
+    }
 }

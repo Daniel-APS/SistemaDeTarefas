@@ -2435,19 +2435,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\danie\\.nuget\\packages\\": {}
+    "C:\\Users\\Daniel\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BACKUP\\Git\\CRUDs\\SistemaDeTarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
+      "projectUniqueName": "E:\\GIT\\SistemaDeTarefas\\SistemaDeTarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
       "projectName": "SistemaDeTarefas",
-      "projectPath": "D:\\BACKUP\\Git\\CRUDs\\SistemaDeTarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
-      "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-      "outputPath": "D:\\BACKUP\\Git\\CRUDs\\SistemaDeTarefas\\SistemaDeTarefas\\obj\\",
+      "projectPath": "E:\\GIT\\SistemaDeTarefas\\SistemaDeTarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
+      "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+      "outputPath": "E:\\GIT\\SistemaDeTarefas\\SistemaDeTarefas\\SistemaDeTarefas\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
