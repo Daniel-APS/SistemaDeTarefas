@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\SistemaDeTarefas"
+    "\\SistemaDeTarefas",
+    "\\SistemaDeTarefas\\SistemaDeTarefas",
+    "\\SistemaDeTarefas\\SistemaDeTarefas\\Controllers",
+    "\\SistemaDeTarefas\\SistemaDeTarefas\\Data",
+    "\\SistemaDeTarefas\\SistemaDeTarefas\\Repositorios"
   ],
-  "SelectedNode": "\\SistemaDeTarefas\\SistemaDeTarefas.sln",
+  "SelectedNode": "\\SistemaDeTarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
   "PreviewInSolutionExplorer": false
 }
