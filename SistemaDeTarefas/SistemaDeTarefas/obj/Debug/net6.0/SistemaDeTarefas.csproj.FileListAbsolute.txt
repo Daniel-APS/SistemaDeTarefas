@@ -97,3 +97,16 @@ E:\GIT\SistemaDeTarefas\SistemaDeTarefas\SistemaDeTarefas\obj\Debug\net6.0\scope
 E:\GIT\SistemaDeTarefas\SistemaDeTarefas\SistemaDeTarefas\obj\Debug\net6.0\SistemaDeTarefas.csproj.CopyComplete
 E:\GIT\SistemaDeTarefas\SistemaDeTarefas\SistemaDeTarefas\obj\Debug\net6.0\SistemaDeTarefas.genruntimeconfig.cache
 E:\GIT\SistemaDeTarefas\SistemaDeTarefas\SistemaDeTarefas\obj\Debug\net6.0\ref\SistemaDeTarefas.dll
+E:\GIT\SistemaDeTarefas\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\GIT\SistemaDeTarefas\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\GIT\SistemaDeTarefas\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+E:\GIT\SistemaDeTarefas\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\GIT\SistemaDeTarefas\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\GIT\SistemaDeTarefas\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\GIT\SistemaDeTarefas\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\GIT\SistemaDeTarefas\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net6.0\Refit.dll
+E:\GIT\SistemaDeTarefas\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net6.0\Refit.HttpClientFactory.dll
+E:\GIT\SistemaDeTarefas\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net6.0\System.Net.Http.Json.dll
+E:\GIT\SistemaDeTarefas\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\GIT\SistemaDeTarefas\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net6.0\System.Text.Json.dll
+E:\GIT\SistemaDeTarefas\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
